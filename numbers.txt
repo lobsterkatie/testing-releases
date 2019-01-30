@@ -1,6 +1,8 @@
 one
 two
+two point five
 three
+three point five
 four
 five
 six
